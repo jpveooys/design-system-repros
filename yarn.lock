@@ -2326,24 +2326,26 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@royalnavy/css-framework@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/css-framework/-/css-framework-2.40.0.tgz#71df1952e42a7d33f26d8d25d5c8337b92d7491e"
-  integrity sha512-BOfpZ6XZM+BS6KvxVGO6/OXbs1iYCDB5uxZGXdHLw0+BMlUuJyA4aHqwYqv5h3VhvVRZhM+5nlSrljzf2UVPZA==
+"@royalnavy/css-framework@^2.47.2", "@royalnavy/css-framework@^2.47.3":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/css-framework/-/css-framework-2.47.3.tgz#301c2fc0f26ae0cff8c4678f12a4d8a591a2f335"
+  integrity sha512-VrkSBym9Tli00MBwWoBuhK6TQQoMtzxXke3cfefCS4CByvR5lbRZLICYeL0uhuyJSrsxswCo1rcpt6uTRnlpxA==
   dependencies:
-    "@royalnavy/design-tokens" "^2.40.0"
+    "@royalnavy/design-tokens" "^2.47.3"
+    "@royalnavy/eslint-config-react" "^2.47.3"
 
-"@royalnavy/design-tokens@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/design-tokens/-/design-tokens-2.40.0.tgz#91688c4fca98fde09d9476df44b50453ed71cddf"
-  integrity sha512-vCN6s1EZ06hiAgl9LqRSwelsOU/3EJq/PC67YBQj9pjbvUL/JRW76j5hL45fMHrJp+wpMD7xJqXu7V9nq8/o3w==
+"@royalnavy/design-tokens@^2.47.2", "@royalnavy/design-tokens@^2.47.3":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/design-tokens/-/design-tokens-2.47.3.tgz#35bdb45362f3d5f679e6b237741f7234ca50450e"
+  integrity sha512-k3KiH3fa6TIDuUsZyqch/5rkaUbnfkXLoY27HQ2S9aiJSKN1YXuL7cGbwENHveTGqMXaUXbuGrCtxsaVrMeOIQ==
   dependencies:
+    "@royalnavy/eslint-config-react" "^2.47.3"
     lodash "^4.17.20"
 
-"@royalnavy/eslint-config-react@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/eslint-config-react/-/eslint-config-react-2.40.0.tgz#2a67433011ee7e692e41f8a706d8da69effcec2d"
-  integrity sha512-4CVOrQHWv4Q2xxnKzVF10NTQm7HDBLOGaFq2VgaOGYCUdBwkqpAVv6+H2L3P338Ge7L5uU1uI7ICnxuxQ5MuWg==
+"@royalnavy/eslint-config-react@^2.47.2", "@royalnavy/eslint-config-react@^2.47.3":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/eslint-config-react/-/eslint-config-react-2.47.3.tgz#a741c9e8894cde58238f4161a428836c5a3e7ef7"
+  integrity sha512-abzPJCnkPwN+QQmFsZW4Bmf6TG81ciWP63CW6RhFgZX80FVqrahyKOtfl2pjQVpLu/7Gr75SR3OdStQbUHSs6A==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.9.1"
     "@typescript-eslint/parser" "^4.9.1"
@@ -2358,29 +2360,30 @@
     eslint-plugin-react-hooks "^4.2.0"
     prettier "^2.2.1"
 
-"@royalnavy/fonts@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/fonts/-/fonts-2.40.0.tgz#304690992209e7623e370c7684fb58b6721d3d04"
-  integrity sha512-o9p6U/hStiA6UUmvYQJt49SJ2FDtV/X/7PcBa0LvWY4EDnFuxqOSUL//B1buzWVMckquxLrY1pcOmMjoUpUQpw==
+"@royalnavy/fonts@^2.47.2", "@royalnavy/fonts@^2.47.3":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/fonts/-/fonts-2.47.3.tgz#3c5269100a695e9f6b0f1f6aa6be76001f997784"
+  integrity sha512-eoTP1H/2dNPm/sN/0tZmyxIZY6KVHGXCjB+MwYz2Q506VMq4xBB4KOo5JWl6MqRqMjk0n25gdSwEP6Yh/+mUUQ==
 
-"@royalnavy/icon-library@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/icon-library/-/icon-library-2.40.0.tgz#40038201b5564c4fcd9c62428746af9833c211b9"
-  integrity sha512-4T4c2w/wMaB/+2bfpMU0h2pMA48JGtCkjPLY4CBvT+DQDKnfbr1l1DwVHpToEz+jBmCD5U98amBMGBYbExRRyw==
+"@royalnavy/icon-library@^2.47.2", "@royalnavy/icon-library@^2.47.3":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/icon-library/-/icon-library-2.47.3.tgz#cfedc796c9700adac1f15395fd141d93c9c107a5"
+  integrity sha512-lmGJ3yKcA1X/F6acvRS2XAUJqVSLrTnxokyavYiBbgrv46o2Y8/a4oAKF3XjkaZQ4H0/r1FsQsaAmfFvfcn6GA==
   dependencies:
+    "@royalnavy/eslint-config-react" "^2.47.3"
     react "^17.0.1"
     react-svg-unique-id "^1.3.3"
 
-"@royalnavy/react-component-library@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/react-component-library/-/react-component-library-2.40.0.tgz#55a965b84eadd6ca43e98c12c4c3e2dc85eba43b"
-  integrity sha512-nIVZ21NYFA71tvezqpdgw0vUiYw/u0iaoJI76xWHFqF2DcKiEodbgnOUByQZuWMSKa97XdB9RJ6dUJc3Z9Qwqw==
+"@royalnavy/react-component-library@^2.47.2":
+  version "2.47.3"
+  resolved "https://registry.yarnpkg.com/@royalnavy/react-component-library/-/react-component-library-2.47.3.tgz#2d6fe202d838f4e6f56c7192f66d60d1da74d947"
+  integrity sha512-bU9OXbypH/uCODEBLT24osTHVVD2lcMDQNzhfxd0AQ7KxJrKQESV85Zuuvwlw4erfWi6vBlOgbKY/wZICGSBNw==
   dependencies:
     "@datepicker-react/hooks" "^2.4.1"
-    "@royalnavy/css-framework" "^2.40.0"
-    "@royalnavy/design-tokens" "^2.40.0"
-    "@royalnavy/fonts" "^2.40.0"
-    "@royalnavy/icon-library" "^2.40.0"
+    "@royalnavy/css-framework" "^2.47.3"
+    "@royalnavy/design-tokens" "^2.47.3"
+    "@royalnavy/fonts" "^2.47.3"
+    "@royalnavy/icon-library" "^2.47.3"
     "@types/react-responsive" "^8.0.2"
     "@types/react-toast-notifications" "^2.4.0"
     classnames "^2.2.6"
@@ -2389,7 +2392,7 @@
     polished "^4.0.3"
     react-compound-slider "^3.3.1"
     react-day-picker "^7.4.8"
-    react-indiana-drag-scroll "^1.5.5"
+    react-indiana-drag-scroll "^2.0.1"
     react-responsive "^8.0.3"
     react-select "^4.1.0"
     react-tether "^2.0.7"
@@ -2669,6 +2672,14 @@
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.8.tgz#49348387983075705fe8f4e02fb67f7daaec4934"
   integrity sha512-S78QIYirQcUoo6UJZx9CSP0O2ix9IaeAXwQi26Rhr/+mg7qqPy8TzaxHSUut7eGjL8WmLccT7/MXf304WjqHcA==
 
+"@types/hoist-non-react-statics@*":
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.1.tgz#1124aafe5118cb591977aeb1ceaaed1070eb039f"
+  integrity sha512-iMIqiko6ooLrTh1joXodJK5X9xeEALT1kM5G3ZLhD3hszxBdIEd5C75U834D9mLcINgD4OyZf5uQXjkuYydWvA==
+  dependencies:
+    "@types/react" "*"
+    hoist-non-react-statics "^3.3.0"
+
 "@types/html-minifier-terser@^5.0.0":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@types/html-minifier-terser/-/html-minifier-terser-5.1.1.tgz#3c9ee980f1a10d6021ae6632ca3e79ca2ec4fb50"
@@ -2873,6 +2884,15 @@
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
+
+"@types/styled-components@^5.1.9":
+  version "5.1.9"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.9.tgz#00d3d84b501420521c4db727e3c195459f87a6cf"
+  integrity sha512-kbEG6YlwK8rucITpKEr6pA4Ho9KSQHUUOzZ9lY3va1mtcjvS3D0wDciFyHEiNHKLL/npZCKDQJqm0x44sPO9oA==
+  dependencies:
+    "@types/hoist-non-react-statics" "*"
+    "@types/react" "*"
+    csstype "^3.0.2"
 
 "@types/tapable@*", "@types/tapable@^1.0.5":
   version "1.0.6"
@@ -4615,7 +4635,7 @@ check-types@^11.1.1:
   resolved "https://registry.yarnpkg.com/check-types/-/check-types-11.1.2.tgz#86a7c12bf5539f6324eb0e70ca8896c0e38f3e2f"
   integrity sha512-tzWzvgePgLORb9/3a0YenggReLKAIb2owL03H2Xdoe5pKcUyWRSEQ8xfCar8t2SIAuEDwtmx2da1YB52YuHQMQ==
 
-"chokidar@>=2.0.0 <4.0.0", chokidar@^3.4.1, chokidar@^3.4.3:
+"chokidar@>=3.0.0 <4.0.0", chokidar@^3.4.1, chokidar@^3.4.3:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.5.1.tgz#ee9ce7bbebd2b79f49f304799d5468e31e14e68a"
   integrity sha512-9+s+Od+W0VJJzawDma/gvBNQqkTiqYTWLuZoyAsivsI4AaWTCzHG06/TMjsf1cYe9Cb97UCEhjz7HvnPk2p/tw==
@@ -5870,7 +5890,7 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
 
-easy-bem@^1.0.0:
+easy-bem@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/easy-bem/-/easy-bem-1.1.1.tgz#1bfcc10425498090bcfddc0f9c000aba91399e03"
   integrity sha512-GJRqdiy2h+EXy6a8E6R+ubmqUM08BK0FWNq41k24fup6045biQ8NXxoXimiwegMQvFFV3t1emADdGNL1TlS61A==
@@ -6253,6 +6273,13 @@ eslint-plugin-prettier@^3.2.0:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.3.1.tgz#7079cfa2497078905011e6f82e8dd8453d1371b7"
   integrity sha512-Rq3jkcFY8RYeQLgk2cCwuc0P7SEFwDravPhsJZOQ5N4YI4DSg50NyqJ/9gdZHzQlHf8MvafSesbNJCcP/FF6pQ==
+  dependencies:
+    prettier-linter-helpers "^1.0.0"
+
+eslint-plugin-prettier@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.4.0.tgz#cdbad3bf1dbd2b177e9825737fe63b476a08f0c7"
+  integrity sha512-UDK6rJT6INSfcOo545jiaOwB701uAIt2/dR7WnFQoGCVl1/EMqdANBmwUaqqQ45aXprsTGzSa39LI1PyuRBxxw==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
@@ -9951,13 +9978,12 @@ node-releases@^1.1.61, node-releases@^1.1.70:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.70.tgz#66e0ed0273aa65666d7fe78febe7634875426a08"
   integrity sha512-Slf2s69+2/uAD79pVVQo8uSiC34+g8GWY8UH2Qtqv34ZfhYrxpYpfzs9Js9d6O0mbDmALuxaTlplnBTnSELcrw==
 
-"node-sass@npm:sass", sass@^1.26.5:
-  name node-sass
-  version "1.32.8"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.8.tgz#f16a9abd8dc530add8834e506878a2808c037bdc"
-  integrity sha512-Sl6mIeGpzjIUZqvKnKETfMf0iDAswD9TNlv13A7aAF3XZlRPMq4VvJWBC2N2DXbp94MQVdNSFG6LfF/iOXrPHQ==
+"node-sass@npm:sass":
+  version "1.32.12"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.12.tgz#a2a47ad0f1c168222db5206444a30c12457abb9f"
+  integrity sha512-zmXn03k3hN0KaiVTjohgkg98C3UowhL1/VSGdj4/VAAiMKGQOE80PFPxFP2Kyq0OUskPKcY5lImkhBKEHlypJA==
   dependencies:
-    chokidar ">=2.0.0 <4.0.0"
+    chokidar ">=3.0.0 <4.0.0"
 
 normalize-package-data@^2.3.2, normalize-package-data@^2.5.0:
   version "2.5.0"
@@ -11443,7 +11469,7 @@ prompts@2.4.0, prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.0, prop-types@^15.7.2:
+prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -11699,15 +11725,14 @@ react-fast-compare@^2.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
   integrity sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
 
-react-indiana-drag-scroll@^1.5.5:
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/react-indiana-drag-scroll/-/react-indiana-drag-scroll-1.8.1.tgz#495cb86b5ec064b28ebb9b8f01f8b49a27713a7e"
-  integrity sha512-jUunh472mcH1YRUfSjw/A+Wxb/eA3ilBvb5YQCkHwjaZ51NR1r08kiYcGuqb0xd2B8p7ZVxow6eEkD3EUEIM1Q==
+react-indiana-drag-scroll@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-indiana-drag-scroll/-/react-indiana-drag-scroll-2.0.1.tgz#8785488a9e9c789b0e1c092e60d03f05a789d428"
+  integrity sha512-xZQXfFf9pHLOL6/AvTFiGZCB4Vu8wO8DjEaO+xRVkSki2bEZSFfS8eeKG0OkTzcYVrXzc5aHAD1Mfl3EG+EFMA==
   dependencies:
     classnames "^2.2.6"
     debounce "^1.2.0"
-    easy-bem "^1.0.0"
-    prop-types "^15.7.0"
+    easy-bem "^1.1.1"
 
 react-input-autosize@^3.0.0:
   version "3.0.0"
