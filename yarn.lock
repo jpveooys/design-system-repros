@@ -2326,24 +2326,24 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@royalnavy/css-framework@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/css-framework/-/css-framework-2.40.0.tgz#71df1952e42a7d33f26d8d25d5c8337b92d7491e"
-  integrity sha512-BOfpZ6XZM+BS6KvxVGO6/OXbs1iYCDB5uxZGXdHLw0+BMlUuJyA4aHqwYqv5h3VhvVRZhM+5nlSrljzf2UVPZA==
+"@royalnavy/css-framework@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/css-framework/-/css-framework-2.42.1.tgz#dedf3de955afc835599d5a56300ce025ac098b5c"
+  integrity sha512-3ga4/SZRcUnKxHK9VhyNdz/jmIABSTVhAPC2lCBsB+yUKgZjBpnvNanXgps5xL2VP2+7TlWwe5LMkLe9u50/xg==
   dependencies:
-    "@royalnavy/design-tokens" "^2.40.0"
+    "@royalnavy/design-tokens" "^2.42.1"
 
-"@royalnavy/design-tokens@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/design-tokens/-/design-tokens-2.40.0.tgz#91688c4fca98fde09d9476df44b50453ed71cddf"
-  integrity sha512-vCN6s1EZ06hiAgl9LqRSwelsOU/3EJq/PC67YBQj9pjbvUL/JRW76j5hL45fMHrJp+wpMD7xJqXu7V9nq8/o3w==
+"@royalnavy/design-tokens@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/design-tokens/-/design-tokens-2.42.1.tgz#382ab1642cca7f1066bd2037e876b5cf948d1e34"
+  integrity sha512-yJSv7IcGVIveWrslBm4y3cZSdhDEO6olPisV3VbvjKWRblFl1CMelYiDIVgQgg4PDPnzbXueylB1mMLYj0+ppw==
   dependencies:
     lodash "^4.17.20"
 
-"@royalnavy/eslint-config-react@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/eslint-config-react/-/eslint-config-react-2.40.0.tgz#2a67433011ee7e692e41f8a706d8da69effcec2d"
-  integrity sha512-4CVOrQHWv4Q2xxnKzVF10NTQm7HDBLOGaFq2VgaOGYCUdBwkqpAVv6+H2L3P338Ge7L5uU1uI7ICnxuxQ5MuWg==
+"@royalnavy/eslint-config-react@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/eslint-config-react/-/eslint-config-react-2.42.1.tgz#085798d4e24e5484e2ff208a945cd0a5fc4b9b7c"
+  integrity sha512-7PmOt9OXrkRvVG5GZ2wIvy974PykE0aL9EA0Tx1fQ5dzF1j84bBeP2M6rSAx0FudhDEKPHooT1u9jpbPWbj9Ew==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.9.1"
     "@typescript-eslint/parser" "^4.9.1"
@@ -2358,29 +2358,29 @@
     eslint-plugin-react-hooks "^4.2.0"
     prettier "^2.2.1"
 
-"@royalnavy/fonts@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/fonts/-/fonts-2.40.0.tgz#304690992209e7623e370c7684fb58b6721d3d04"
-  integrity sha512-o9p6U/hStiA6UUmvYQJt49SJ2FDtV/X/7PcBa0LvWY4EDnFuxqOSUL//B1buzWVMckquxLrY1pcOmMjoUpUQpw==
+"@royalnavy/fonts@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/fonts/-/fonts-2.42.1.tgz#58ffbb77723bb0ff952e2148f86058c07af3fbc6"
+  integrity sha512-Kjkm4sP+qUl2mtrFGEyml/+9Va1rtt7Z5xmOHwsezGvFtI0yRfGZbRlwNYS+KXF72nx195I85AQLAMi+lMw5IA==
 
-"@royalnavy/icon-library@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/icon-library/-/icon-library-2.40.0.tgz#40038201b5564c4fcd9c62428746af9833c211b9"
-  integrity sha512-4T4c2w/wMaB/+2bfpMU0h2pMA48JGtCkjPLY4CBvT+DQDKnfbr1l1DwVHpToEz+jBmCD5U98amBMGBYbExRRyw==
+"@royalnavy/icon-library@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/icon-library/-/icon-library-2.42.1.tgz#26a8f25301fffb5ac150f50a3d4ca4a4066fc2ee"
+  integrity sha512-Gh1lENfEB7v6340pMdd7Zjob0PHAc8NqHPQXRdOz0MsgPtgR/tjRHAxwQ207/ayOaYiBm7tz1sdcgl6TpSiwqQ==
   dependencies:
     react "^17.0.1"
     react-svg-unique-id "^1.3.3"
 
-"@royalnavy/react-component-library@^2.40.0":
-  version "2.40.0"
-  resolved "https://registry.yarnpkg.com/@royalnavy/react-component-library/-/react-component-library-2.40.0.tgz#55a965b84eadd6ca43e98c12c4c3e2dc85eba43b"
-  integrity sha512-nIVZ21NYFA71tvezqpdgw0vUiYw/u0iaoJI76xWHFqF2DcKiEodbgnOUByQZuWMSKa97XdB9RJ6dUJc3Z9Qwqw==
+"@royalnavy/react-component-library@^2.42.1":
+  version "2.42.1"
+  resolved "https://registry.yarnpkg.com/@royalnavy/react-component-library/-/react-component-library-2.42.1.tgz#74717080e373d7f95705515a6636a4564dfd28ce"
+  integrity sha512-gsiqOATFa3sRyaTVD4yTLkkfrxpy3+9/MdezOMKlmvfb+3OxNinlJ54h9aeJF6yN4M8Pz8tgDw5ORLBkM95Ylw==
   dependencies:
     "@datepicker-react/hooks" "^2.4.1"
-    "@royalnavy/css-framework" "^2.40.0"
-    "@royalnavy/design-tokens" "^2.40.0"
-    "@royalnavy/fonts" "^2.40.0"
-    "@royalnavy/icon-library" "^2.40.0"
+    "@royalnavy/css-framework" "^2.42.1"
+    "@royalnavy/design-tokens" "^2.42.1"
+    "@royalnavy/fonts" "^2.42.1"
+    "@royalnavy/icon-library" "^2.42.1"
     "@types/react-responsive" "^8.0.2"
     "@types/react-toast-notifications" "^2.4.0"
     classnames "^2.2.6"
@@ -2669,6 +2669,14 @@
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.8.tgz#49348387983075705fe8f4e02fb67f7daaec4934"
   integrity sha512-S78QIYirQcUoo6UJZx9CSP0O2ix9IaeAXwQi26Rhr/+mg7qqPy8TzaxHSUut7eGjL8WmLccT7/MXf304WjqHcA==
 
+"@types/hoist-non-react-statics@*":
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.1.tgz#1124aafe5118cb591977aeb1ceaaed1070eb039f"
+  integrity sha512-iMIqiko6ooLrTh1joXodJK5X9xeEALT1kM5G3ZLhD3hszxBdIEd5C75U834D9mLcINgD4OyZf5uQXjkuYydWvA==
+  dependencies:
+    "@types/react" "*"
+    hoist-non-react-statics "^3.3.0"
+
 "@types/html-minifier-terser@^5.0.0":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@types/html-minifier-terser/-/html-minifier-terser-5.1.1.tgz#3c9ee980f1a10d6021ae6632ca3e79ca2ec4fb50"
@@ -2873,6 +2881,15 @@
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
+
+"@types/styled-components@^5.1.9":
+  version "5.1.9"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.9.tgz#00d3d84b501420521c4db727e3c195459f87a6cf"
+  integrity sha512-kbEG6YlwK8rucITpKEr6pA4Ho9KSQHUUOzZ9lY3va1mtcjvS3D0wDciFyHEiNHKLL/npZCKDQJqm0x44sPO9oA==
+  dependencies:
+    "@types/hoist-non-react-statics" "*"
+    "@types/react" "*"
+    csstype "^3.0.2"
 
 "@types/tapable@*", "@types/tapable@^1.0.5":
   version "1.0.6"

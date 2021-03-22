@@ -1,32 +1,21 @@
 import React from 'react'
-import {
-  Timeline,
-  TimelineDays,
-  TimelineMonths, TimelineRows,
-  TimelineTodayMarker,
-  TimelineWeeks
-} from "@royalnavy/react-component-library";
+import { IconChain, IconPlace } from "@royalnavy/icon-library";
+import styled from "styled-components";
 
 import { Main } from '../../layouts'
 
+const StyledIconPlace = styled(IconPlace)`
+  color: red;
+`
 
-const ExampleTimeline = () => (
-  <Timeline
-    startDate={new Date(2020, 9, 5)}
-    endDate={new Date(2021, 1, 1)}
-    unitWidth={53}
-  >
-    <TimelineTodayMarker />
-    <TimelineMonths />
-    <TimelineWeeks />
-    <TimelineDays />
-    <TimelineRows>{}</TimelineRows>
-  </Timeline>
-)
+const StyledIconChain = styled(IconChain)`
+  color: red;
+`
 
-export const Home: React.FC<unknown> = () => (
+export const Home: React.FC = () => (
   <Main>
-    <h1>Hello, World!</h1>
-    <ExampleTimeline />
+    <h1>World, hello!</h1>
+    <StyledIconPlace size={52} />
+    <StyledIconChain size={52} />
   </Main>
 )
